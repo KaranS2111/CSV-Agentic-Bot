@@ -1,6 +1,6 @@
 # Gemini-Powered CSV Agent
 
-This project is a powerful CSV data manipulation tool that uses Google's Gemini AI to help you work with CSV files through natural language commands.
+This project is a powerful CSV data manipulation tool that uses langchain and Google's Gemini AI to help you work with CSV files through natural language commands.
 
 ## Features
 
@@ -79,10 +79,10 @@ This project is a powerful CSV data manipulation tool that uses Google's Gemini 
 
 ## License
 
-This project is available for personal and educational use.
+Using MIT License in this project.
 
 ## Acknowledgments
 
 - Built with [LangChain](https://www.langchain.com/)
-- Powered by [Google Gemini AI](https://ai.google.dev/)
+- Models by [Google Gemini AI](https://ai.google.dev/)
 - Interface created with [Gradio](https://www.gradio.app/)
