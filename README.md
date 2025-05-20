@@ -24,7 +24,7 @@ This project is a powerful CSV data manipulation tool that uses Google's Gemini 
 
 2. Navigate to the project directory:
    ```bash
-   cd "c:\Users\User\Desktop\Langchain+Groq CSV Agent"
+   cd "c:\Users\User\Desktop\CSV-Agentic-Bot"
    ```
 
 3. Create a virtual environment (recommended):
